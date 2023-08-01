@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://i.yapx.cc/WU0cB.png" width="200" alt="Nest Logo" /></a>
+  <a href="http://github.com/venokjs" target="blank"><img src="https://i.yapx.cc/WU0cB.png" width="200" alt="Venok Logo" /></a>
 </p>
 
 # Venok SubModules
