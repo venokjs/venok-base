@@ -1,5 +1,5 @@
 name: 🐛 Bug report
-description: Report incorrect or unexpected behavior of necord
+description: Report incorrect or unexpected behavior of venok modules
 labels: [bug]
 body:
   - type: textarea
