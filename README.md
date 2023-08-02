@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://github.com/venokjs" target="blank"><img src="https://i.yapx.cc/WU0cB.png" width="200" alt="Venok Logo" /></a>
+  <a href="http://github.com/venokjs" target="blank"><img src="https://avatars.githubusercontent.com/u/137800287?s=200&v=4" width="200" alt="Venok Logo" /></a>
 </p>
 
 # Venok SubModules
